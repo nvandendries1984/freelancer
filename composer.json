@@ -1,0 +1,8 @@
+{
+    "name": "nielsvandendries/freelancer-theme",
+    "type": "october-theme",
+    "description": "Freelancer is a flat design, one page Bootstrap portfolio theme perfect for freelancer portfolios, or any other one page website.\nhttps://startbootstrap.com/theme/freelancer",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
